@@ -36,10 +36,10 @@ RESEARCH   PyTorch · Detection ML · XAI
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[MemSift](https://isuru99.github.io/isuru-portfolio/)** · *MSc dissertation, ongoing* | Reduces false alarms in memory-based malware detection without missing real threats. Compares threshold tuning, focal loss and feature ablation on CIC-MalMem-2022 (58,596 memory dumps). | Python · PyTorch · XGBoost · scikit-learn |
-| **[SteganoCryptZone](https://isuru99.github.io/isuru-portfolio/)** · *BSc final year project* | Desktop tool that encrypts data with hybrid AES + RSA, then hides it in images or audio with LSB steganography. | Python · PyCryptodome · Pillow · PySimpleGUI |
-| **[M.O.D.O.S-99](https://isuru99.github.io/isuru-portfolio/)** · *Group project* | Robotic security dog that works with existing CCTV and alarm systems. I led testing and maintenance. | Arduino · C · Java · Xamarin |
-| **[ALL-IN-CARE](https://isuru99.github.io/isuru-portfolio/)** · *Group project* | Healthcare app that handles doctor booking, prescriptions, pharmacy orders and delivery in one place. | C# · SQL · OOP |
+| **[MemSift]([https://isuru99.github.io/isuru-portfolio/](https://isuru-panditharatne.me/work/memsift/))** · *MSc dissertation, ongoing* | Reduces false alarms in memory-based malware detection without missing real threats. Compares threshold tuning, focal loss and feature ablation on CIC-MalMem-2022 (58,596 memory dumps). | Python · PyTorch · XGBoost · scikit-learn |
+| **[SteganoCryptZone]([https://isuru99.github.io/isuru-portfolio/](https://isuru-panditharatne.me/work/steganocryptzone/))** · *BSc final year project* | Desktop tool that encrypts data with hybrid AES + RSA, then hides it in images or audio with LSB steganography. | Python · PyCryptodome · Pillow · PySimpleGUI |
+| **[M.O.D.O.S-99]([https://isuru99.github.io/isuru-portfolio/](https://isuru-panditharatne.me/work/modos-99/))** · *Group project* | Robotic security dog that works with existing CCTV and alarm systems. I led testing and maintenance. | Arduino · C · Java · Xamarin |
+| **[ALL-IN-CARE]([https://isuru99.github.io/isuru-portfolio/](https://isuru-panditharatne.me/work/all-in-care/))** · *Group project* | Healthcare app that handles doctor booking, prescriptions, pharmacy orders and delivery in one place. | C# · SQL · OOP |
 
 ---
 
@@ -71,17 +71,4 @@ RESEARCH   PyTorch · Detection ML · XAI
 
 ---
 
-### 📊 GitHub stats
 
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Isuru99&theme=tokyonight" alt="GitHub stats"/>
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Isuru99&theme=tokyonight" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Isuru99&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Isuru99&color=00e6a0&style=flat-square" alt="Profile views"/>
-</p>
